@@ -1,3 +1,3 @@
 void main() {
-  print('  )\n  (\n[_])');
+  print('   )\n  (\n[_])');
 }
